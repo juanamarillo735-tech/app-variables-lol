@@ -1,6 +1,4 @@
 
-pip install pulp
-
 import pulp
 
 # 1. Inicializar el modelo indicando que queremos MAXIMIZAR los ingresos
